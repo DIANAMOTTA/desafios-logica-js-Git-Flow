@@ -14,7 +14,7 @@ Objetivos
 
 ---
 
-Desafios: 
+Desafios:
 Desafio Faxina JS
 Recebe um objeto com os atributos `nome`, `sobrenome` e `idade`, e remove os campos com valor `null`.
 ---
