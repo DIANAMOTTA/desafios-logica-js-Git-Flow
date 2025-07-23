@@ -25,6 +25,6 @@ function cacaLetras(letra, frase) {
   }
   return quantidade;
 }
-// chgama a minha função cacaLetras
+// chama função cacaLetras
 let quantidadeTot = cacaLetras(letra, frase);
 console.log(`A letra "${letra}" aparece ${quantidadeTot} vezes na frase.`);
