@@ -17,12 +17,15 @@ Objetivos
 Desafios:
 Desafio Faxina JS
 Recebe um objeto com os atributos `nome`, `sobrenome` e `idade`, e remove os campos com valor `null`.
+
 ---
 Caça Letras
 Solicita ao usuário uma letra e uma frase, e retorna quantas vezes a letra aparece na frase.
+
 ---
 Porcentagem
 Recebe dois números e retorna a porcentagem que um representa do outro.
+
 ---
 
 ## Instruções
@@ -69,4 +72,4 @@ fix: corrigir contagem de letras
 chore: atualizar README com instruções
 
 Autoria
-Desenvolvido por Diana Motta como parte dos estudos da Mentoria Front-End / DBserver, ministrado pela Mentora Laís Malta, objetivo do desafio é praticar de lógica de programação e boas práticas de versionamento com JavaScript.
+Desenvolvido por Diana Motta como parte dos estudos da Mentoria Front-End / DBserver, sobre orientação da Mentora Laís Malta, objetivo do desafio é praticar de lógica de programação e boas práticas de versionamento com JavaScript.
